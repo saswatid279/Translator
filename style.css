@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    margin:0px;
+   
+}
+.header
+{
+    padding: 1rem 1rem;
+    background-color: black;
+    color:white;
+    margin-bottom:8rem;
+}
+footer
+{
+    padding: 0.5rem 0.5rem;
+    background-color: black;
+    color:white;
+    margin-top: 6.1rem;
+}
+#input
+        {
+            border: 2px solid black;
+            border-radius: 5px;
+            height: 10vh;
+            width: 50%;
+            padding: 1rem; 
+        }
+#output
+        {
+            border: 2px solid black;
+            border-radius:5px;
+            height: 10vh;
+            width: 50%;
+            padding: 1rem;
+            background-color:white;
+            overflow-y: scroll;
+            resize: none;
+            margin: auto;
+           
+        }
+#btn-translate
+        {
+            background-color: orange;
+            border: 2px solid black;
+            border-radius: 5px;
+            text-align: center;
+            padding: 10px 10px;
+            font-weight: bold;
+            font-size: 1rem;
+            margin: 1.5rem;
+        }
+.container
+{
+    text-align:center;
+    background-image: url(images/ferb.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
